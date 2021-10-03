@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26">
   <img src="https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6">
   <img src="https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=JavaScript&logoColor=239120">
-  <img src="https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP&logoColor=4FC921">
+  <img src="https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP&logoColor=CEFF91">
   <img src="https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=E861A5">
 </p>
 
