@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6">
   <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP&logoColor=777BB4">
-  <img src="https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=7F52FF">
 </p>
 
 <h3 align="center">Follow Me</h1>
