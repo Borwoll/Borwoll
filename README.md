@@ -1,4 +1,4 @@
-<h1 align="center">Borwoll - experienced coder </h1>
+<h1 align="center">Borwoll</h1>
 
 <h3 align="center">Languages</h1>
 <p align="center">
@@ -9,6 +9,15 @@
   <img src="https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6">
   <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP&logoColor=777BB4">
+  <img src="https://img.shields.io/badge/-KOTLIN-090909?style=for-the-badge&logo=KOTLIN&logoColor=81BE58">
+  <img src="https://img.shields.io/badge/-ASSEMBLER-090909?style=for-the-badge&logo=ASSEMBLER&logoColor=AF8ABE">
+</p>
+
+<h3 align="center">Backend frameworks</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/-LARAVEL-090909?style=for-the-badge&logo=LARAVEL&logoColor=BEB752">
+  <img src="https://img.shields.io/badge/-SYMFONY-090909?style=for-the-badge&logo=SYMFONY&logoColor=BE3454">
+  
 </p>
 
 <h3 align="center">Follow Me</h1>
