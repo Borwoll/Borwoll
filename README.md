@@ -16,7 +16,7 @@
 <h3 align="center">Backend frameworks</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/-LARAVEL-090909?style=for-the-badge&logo=LARAVEL&logoColor=BEB752">
-  <img src="https://img.shields.io/badge/-SYMFONY-090909?style=for-the-badge&logo=SYMFONY&logoColor=BE3454">
+  <img src="https://img.shields.io/badge/-DJANGO-090909?style=for-the-badge&logo=DJANGO&logoColor=BE3454">
   
 </p>
 
